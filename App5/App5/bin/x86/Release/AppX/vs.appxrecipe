@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AP71602</Machine>
+    <WindowsUser>harvinders</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>71CF5CFB-2881-498A-9929-A27E77A5CBE8</PackageIdentityName>
+    <PackageIdentityPublisher>CN=harvinders</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>07E875AF38326968BF8F23865E3243C8180D9E1ADAC945E0AF2E43810AFCA28F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>71CF5CFB-2881-498A-9929-A27E77A5CBE8_1.0.0.0_x86__1fk83vj4aqw9y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>71CF5CFB-2881-498A-9929-A27E77A5CBE8_1fk83vj4aqw9y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>71CF5CFB-2881-498A-9929-A27E77A5CBE8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=harvinders</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-30T06:53:54.367</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\App5.dll">
+      <PackagePath>App5.dll</PackagePath>
+      <Modified>2018-04-30T06:53:54.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\App5.exe">
+      <PackagePath>App5.exe</PackagePath>
+      <Modified>2018-04-30T06:53:54.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\App5.pdb">
+      <PackagePath>App5.pdb</PackagePath>
+      <Modified>2018-04-30T06:53:54.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-04-30T02:13:28.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-30T02:13:28.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-30T02:13:28.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-30T02:13:28.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-30T02:13:28.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-30T02:13:28.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-30T02:13:28.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2018-02-23T04:21:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\harvinders\source\repos\App5\App5\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-30T06:53:34.246</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

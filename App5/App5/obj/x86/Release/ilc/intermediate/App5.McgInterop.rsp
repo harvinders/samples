@@ -1,0 +1,44 @@
+/debug:full
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize-
+/out:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop.dll"
+/pdb:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop.pdb"
+/platform:x86
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/define:DEBUG
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\tools\x86\ilc\lib\Private\System.Private.CoreLib.InteropServices.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\tools\x86\ilc\lib\Private\System.Private.CompilerServices.ICastable.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\tools\x86\ilc\lib\Private\System.Private.DispatchProxy.dll"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Reflection.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Runtime.iltoc"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Threading.dll"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\tools\x86\ilc\lib\Private\System.Private.CoreLib.Augments.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\System.Private.App5.Generated.dll"
+"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop\Adapters.g.cs"
+"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop\AssemblyInfo.g.cs"
+"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop\Data.g.cs"
+"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop\Helpers.g.cs"
+"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop\ImplTypes.g.cs"
+"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop\PInvoke.g.cs"
+"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop\SafeTypes.g.cs"
+"c:\users\harvinders\source\repos\App5\App5\obj\x86\Release\ilc\intermediate\App5.McgInterop\SharedStubs.g.cs"

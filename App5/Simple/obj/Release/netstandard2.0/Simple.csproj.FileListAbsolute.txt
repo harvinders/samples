@@ -1,0 +1,9 @@
+c:\Users\harvinders\source\repos\App5\Simple\bin\Release\netstandard2.0\Simple.deps.json
+c:\Users\harvinders\source\repos\App5\Simple\bin\Release\netstandard2.0\Simple.dll
+c:\Users\harvinders\source\repos\App5\Simple\bin\Release\netstandard2.0\Simple.pdb
+c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.csprojResolveAssemblyReference.cache
+c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.csproj.CoreCompileInputs.cache
+c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.AssemblyInfoInputs.cache
+c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.AssemblyInfo.cs
+c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.dll
+c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.pdb
