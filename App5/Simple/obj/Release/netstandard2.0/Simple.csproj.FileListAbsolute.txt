@@ -7,3 +7,12 @@ c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.A
 c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.AssemblyInfo.cs
 c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.dll
 c:\Users\harvinders\source\repos\App5\Simple\obj\Release\netstandard2.0\Simple.pdb
+C:\Users\harvinders\source\repos\samples\App5\Simple\bin\Release\netstandard2.0\Simple.deps.json
+C:\Users\harvinders\source\repos\samples\App5\Simple\bin\Release\netstandard2.0\Simple.dll
+C:\Users\harvinders\source\repos\samples\App5\Simple\bin\Release\netstandard2.0\Simple.pdb
+C:\Users\harvinders\source\repos\samples\App5\Simple\obj\Release\netstandard2.0\Simple.csprojResolveAssemblyReference.cache
+C:\Users\harvinders\source\repos\samples\App5\Simple\obj\Release\netstandard2.0\Simple.csproj.CoreCompileInputs.cache
+C:\Users\harvinders\source\repos\samples\App5\Simple\obj\Release\netstandard2.0\Simple.AssemblyInfoInputs.cache
+C:\Users\harvinders\source\repos\samples\App5\Simple\obj\Release\netstandard2.0\Simple.AssemblyInfo.cs
+C:\Users\harvinders\source\repos\samples\App5\Simple\obj\Release\netstandard2.0\Simple.dll
+C:\Users\harvinders\source\repos\samples\App5\Simple\obj\Release\netstandard2.0\Simple.pdb

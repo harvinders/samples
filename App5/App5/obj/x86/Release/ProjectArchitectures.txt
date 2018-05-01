@@ -1,1 +1,1 @@
-c:\users\harvinders\source\repos\App5\App5\App5.csproj;x86
+C:\Users\harvinders\source\repos\samples\App5\App5\App5.csproj;x86

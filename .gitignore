@@ -3,3 +3,9 @@
 ################################################################################
 
 /App5/.vs/App5/v15
+/App5/SimpleLib/obj
+/App5/SimpleLib/bin
+/App5/SimpleUWPApp/obj
+/App5/SimpleUWPApp/bin/x86/Release
+/App5/SimpleWTSApp/obj
+/App5/SimpleWTSApp/bin/x86
