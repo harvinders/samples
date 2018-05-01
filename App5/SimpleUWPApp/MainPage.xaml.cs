@@ -30,7 +30,15 @@ namespace SimpleUWPApp
         private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
         {
             var mainAppAssembly = typeof(MainPage).Assembly;
-            var refAssembly = mainAppAssembly.GetReferencedAssemblies();
+            try
+            {
+                var refAssembly = mainAppAssembly.GetReferencedAssemblies();
+            }
+            catch (Exception exception)
+            {
+                Console.WriteLine(exception);
+                throw;
+            }
         }
     }
 }
